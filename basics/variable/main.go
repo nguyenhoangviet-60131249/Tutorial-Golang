@@ -9,7 +9,7 @@ func main() {
 	var str = "Hello Golang"
 	fmt.Println(str)
 	// define variable num with type Number
-	num := 10
+	num := 10 
 	// or var num int
 	// num =10
 	fmt.Println(num)
